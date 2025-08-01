@@ -1,0 +1,10 @@
+name: example
+title:
+username: yxjing
+account: yxjing
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15058212
+bundleId: 10594487
+url: https://yxjing.shinyapps.io/example/
+version: 1
